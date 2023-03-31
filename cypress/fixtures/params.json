@@ -1,0 +1,151 @@
+{
+    "data":[
+    {
+        "State": "Alberta",
+        "city": "Calgary",
+        "value": "11"
+    }
+    
+    ,
+    {
+        "State": "Ontario",
+        "city": "Toronto",
+        "value": "22"
+    }
+    ,
+    
+    {
+        "State": "Manitoba",
+        "city": "Winnepeg",
+        "value": "11"
+    }
+    ,
+    
+    {
+        "State": "Newfoundland",
+        "city": "St Johns",
+        "value": "11"
+    }
+    ,
+    
+    {
+        "State": "NovaScotia",
+        "city": "Halifax",
+        "value": "11"
+    }
+    ,
+    
+    {
+        "State": "NorthwestTerritory",
+        "city": "Fort Smith",
+        "value": "11"
+    }
+    ,
+    
+    {
+        "State": "Quebec",
+        "city": "Montreal",
+        "value": "22"
+    }
+    ,
+    
+    {
+        "State": "Saskatechewan",
+        "city": "Regina",
+        "value": "11"
+    }
+    ],
+    "data1":[
+        {
+            "cur_heat": "Natural Gas",
+            "price": "$3,465.00",
+            "value": "aNaturalGas"
+        }
+        
+        ,
+        {
+            "cur_heat": "Propane",
+            "price": "$12,554.35",
+            "value": "Propane"
+        }
+        ,
+        
+        {
+            "cur_heat": "Oil",
+            "price": "$8,828.69",
+            "value": "Oil"
+        }
+        ,
+        
+        {
+            "cur_heat": "Electric",
+            "price": "$4,653.16",
+            "value": "Electric"
+        }
+        ,
+        
+        {
+            "cur_heat": "Heat Pump",
+            "price": "$3,354.93",
+            "value": "HeatPump"
+        }
+        
+        ],
+        "data2":[
+            {
+                "new_heat": "Natural Gas",
+                "price": "$3,465.00",
+                "value": "bNaturalGas"
+            }
+            
+            ,
+            {
+                "new_heat": "Propane",
+                "price": "$12,554.35",
+                "value": "Propane"
+            }
+            ,
+            
+            {
+                "new_heat": "Oil",
+                "price": "$8,828.69",
+                "value": "Oil"
+            }
+            ,
+            
+            {
+                "new_heat": "Electric",
+                "price": "$4,653.16",
+                "value": "Electric"
+            }
+            ,
+            
+            {
+                "new_heat": "Heat Pump",
+                "price": "$3,354.93",
+                "value": "HeatPump"
+            }
+            ,
+            
+            {
+                "new_heat": "Dual Fuel-Natural Gas",
+                "price": "$2,760.85",
+                "value": "DualFuelNaturalGas"
+            },
+            
+            {
+                "new_heat": "Dual Fuel-Oil",
+                "price": "$5,442.69",
+                "value": "DualFuelOil"
+            },
+            {
+                "new_heat": "Dual Fuel-Propane",
+                "price": "$7,305.52",                
+                "value": "DualFuelPropane"
+            }
+            
+            
+            ]
+    
+    
+    }
